@@ -8,6 +8,8 @@ public class TestCase002 {
 
         System.out.println("Cydeo School");
 
+        System.out.println("This is great");
+
     }
 
 }
