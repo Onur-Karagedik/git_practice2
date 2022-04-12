@@ -6,6 +6,8 @@ public class TestCase002 {
 
         System.out.println("Onur Karagedik");
 
+        System.out.println("Cydeo School");
+
     }
 
 }
